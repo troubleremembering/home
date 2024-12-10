@@ -1,0 +1,11 @@
+:root {
+    --martian-mono: "Martian Mono", monospace;
+}
+
+body {
+    font-family: var(--martian-mono);
+    font-weight: 500;
+    font-variation-settings:
+        "wdth" 400,
+        "wght" 500;
+}
